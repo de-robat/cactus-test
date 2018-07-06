@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11,
+  "changeIdentifier": 3467,
   "do_objectID": "018F924A-F239-474D-B859-831EBFC1BAAE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 130,
-    "width": 356,
+    "height": 38.02417040113814,
+    "width": 204.8056233989267,
     "x": 100,
-    "y": 0
+    "y": 92
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -51,6 +51,10 @@
     {
       "class": "text",
       "id": "6689CCE3-B7BF-4DD7-91ED-36ADBE372887"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A9A983B-1E3D-46F5-85E8-548BE5C5C6DD"
     }
   ],
   "name": "button",
@@ -67,6 +71,12 @@
     "startDecorationType": 0
   },
   "symbolID": "C4C66DD4-C97D-4329-86D3-EB79D26D343F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
